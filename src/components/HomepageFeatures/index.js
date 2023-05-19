@@ -10,8 +10,10 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
+      <Translate>
         Docusaurus was designed from the ground up to be easily installed and
         used to get your website up and running quickly.
+      </Translate>
       </>
     ),
   },
@@ -20,8 +22,10 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
+      <Translate>
         Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
         ahead and move your docs into the <code>docs</code> directory.
+      </Translate>
       </>
     ),
   },
