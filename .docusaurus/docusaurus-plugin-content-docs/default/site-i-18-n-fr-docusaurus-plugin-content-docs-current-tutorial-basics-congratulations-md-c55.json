@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/congratulations",
+  "id": "tutorial-basics/congratulations",
+  "title": "Congratulations!",
+  "description": "Tu as apprisles basics de Docusauruset fait des changes template initial.",
+  "source": "@site/i18n/fr/docusaurus-plugin-content-docs/current/tutorial-basics/congratulations.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/congratulations",
+  "permalink": "/fr/docs/tutorial-basics/congratulations",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/congratulations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deploy your site",
+    "permalink": "/fr/docs/tutorial-basics/deploy-your-site"
+  },
+  "next": {
+    "title": "Some random new exmaple",
+    "permalink": "/fr/docs/tutorial-basics/test"
+  }
+}
